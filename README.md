@@ -4,7 +4,7 @@
 
 
 
-## Community Lead
+## Community Leads
 
  @ampacheco 
 
