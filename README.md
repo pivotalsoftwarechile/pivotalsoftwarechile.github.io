@@ -6,5 +6,5 @@
 
 ## Community Lead
 
-* @ampacheco 
-* Armando Salas
+- @ampacheco 
+- Armando Salas
