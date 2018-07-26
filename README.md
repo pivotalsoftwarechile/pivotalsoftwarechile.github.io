@@ -2,4 +2,5 @@
 
 [Ser parte de la Comunidad en Slack](https://pivotal-software-chile.cfapps.io)
 
-Commnity Lead : @ampacheco
+Community Lead : @ampacheco
+Community Lead : Armando Salas
